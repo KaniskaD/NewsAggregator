@@ -1,0 +1,15 @@
+body {
+    background-color: #fbfbfe;
+    color: #050315;
+}
+h1, h2, h3 {
+    color: #0849af;
+}
+.stButton>button {
+    background: linear-gradient(#0849af, #dedcff);
+    color: white;
+}
+.stTextInput>div>div>input {
+    background-color: #dedcff;
+    color: #050315;
+}
