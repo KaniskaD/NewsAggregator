@@ -54,4 +54,4 @@ st.markdown('<p class="description">Get real-time, customized news updates from 
 col1, col2, col3, col4 = st.columns([1, 2, 4, 1])
 with col3:
     if st.button("Start Exploring"):
-        st.switch_page("newsapp/pages/Follow_Sources.py")
+        st.switch_page("pages/Follow_Sources.py")
